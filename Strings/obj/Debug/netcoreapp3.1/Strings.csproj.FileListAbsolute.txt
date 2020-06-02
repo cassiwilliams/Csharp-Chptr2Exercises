@@ -1,0 +1,13 @@
+C:\Users\cassi\Desktop\LC101\csharp-practice\ch-two\Exercises\Strings\bin\Debug\netcoreapp3.1\Strings.exe
+C:\Users\cassi\Desktop\LC101\csharp-practice\ch-two\Exercises\Strings\bin\Debug\netcoreapp3.1\Strings.deps.json
+C:\Users\cassi\Desktop\LC101\csharp-practice\ch-two\Exercises\Strings\bin\Debug\netcoreapp3.1\Strings.runtimeconfig.json
+C:\Users\cassi\Desktop\LC101\csharp-practice\ch-two\Exercises\Strings\bin\Debug\netcoreapp3.1\Strings.runtimeconfig.dev.json
+C:\Users\cassi\Desktop\LC101\csharp-practice\ch-two\Exercises\Strings\bin\Debug\netcoreapp3.1\Strings.dll
+C:\Users\cassi\Desktop\LC101\csharp-practice\ch-two\Exercises\Strings\bin\Debug\netcoreapp3.1\Strings.pdb
+C:\Users\cassi\Desktop\LC101\csharp-practice\ch-two\Exercises\Strings\obj\Debug\netcoreapp3.1\Strings.AssemblyInfoInputs.cache
+C:\Users\cassi\Desktop\LC101\csharp-practice\ch-two\Exercises\Strings\obj\Debug\netcoreapp3.1\Strings.AssemblyInfo.cs
+C:\Users\cassi\Desktop\LC101\csharp-practice\ch-two\Exercises\Strings\obj\Debug\netcoreapp3.1\Strings.csproj.CoreCompileInputs.cache
+C:\Users\cassi\Desktop\LC101\csharp-practice\ch-two\Exercises\Strings\obj\Debug\netcoreapp3.1\Strings.dll
+C:\Users\cassi\Desktop\LC101\csharp-practice\ch-two\Exercises\Strings\obj\Debug\netcoreapp3.1\Strings.pdb
+C:\Users\cassi\Desktop\LC101\csharp-practice\ch-two\Exercises\Strings\obj\Debug\netcoreapp3.1\Strings.genruntimeconfig.cache
+C:\Users\cassi\Desktop\LC101\csharp-practice\ch-two\Exercises\Strings\obj\Debug\netcoreapp3.1\Strings.csprojAssemblyReference.cache
